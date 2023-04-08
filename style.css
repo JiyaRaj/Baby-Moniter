@@ -1,0 +1,28 @@
+body {
+    background-image: url("http://wallpapercave.com/wp/3uHM2zB.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    margin: 0px;
+    color: rebeccapurple;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: thistle;
+    padding: 10px;
+}
+
+#status {
+    background-color: fuchsia;
+    font-size: 18px;
+    padding: 5px;
+}
+
+canvas {
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px lightblue;
+    border: darkcyan 10px double;
+    margin-top: 100px;
+}
